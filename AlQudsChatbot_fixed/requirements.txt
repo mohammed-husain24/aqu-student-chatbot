@@ -1,0 +1,7 @@
+flask
+python-dotenv
+sentence-transformers
+numpy
+requests
+beautifulsoup4
+PyPDF2
